@@ -1,6 +1,6 @@
-# Dept of Mathematical Science
-# UiTM Kedah
+# Dept of Mathematical Science UiTM Kedah
 
+## Welcome  
 ![](https://kedah.uitm.edu.my/images/banner/kedah4a.jpg)
 
 Welcome to the website. I hope you enjoy it!  
@@ -15,8 +15,7 @@ Thank you.
 
 ***
   
-# Faculty Members  
-
+## Faculty Members  
 
 ### **Nora Baizura Mohd Isa**
 ![](images/nora_baizura.png)     
