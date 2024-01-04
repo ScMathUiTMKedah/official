@@ -8,4 +8,4 @@ For any inquiry regarding the courses and the material contents on this site, yo
 
 Thank you.  
   
-![](https://kedah.uitm.edu.my/images/images/new/RecognitionLogo2021.png){width="100%" height="100%}  
+![](https://kedah.uitm.edu.my/images/images/new/RecognitionLogo2021.png)
