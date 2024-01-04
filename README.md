@@ -1,4 +1,4 @@
-# Dept of Mathematical Science UiTM Kedah
+# Department of Mathematical Science UiTM Kedah
 
 ## Welcome  
 ![](https://kedah.uitm.edu.my/images/banner/kedah4a.jpg)
